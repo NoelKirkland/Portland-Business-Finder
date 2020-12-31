@@ -26,6 +26,7 @@ const SearchScreen = () => {
     </>
   );
 };
+console.disableYellowBox = true;
 
 const styles = StyleSheet.create({
 

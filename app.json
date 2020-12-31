@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "food",
-    "slug": "food",
+    "name": "PortlandBusinessFinder",
+    "slug": "portlandbusinessfinder",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -27,6 +27,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "Portland Business Finder is a cross-platform mobile application written in JavaScript using React-Native. With this application you can take full advantage of the Yelp API to search businesses in your area. Your search results are separated into three price categories: \"$\" for the most budget friendly businesses, \"$$\" for more average prices, and \"$$$\" for businesses on the pricier end. Each listing will display the name of the business, a thumbnail image, star rating, and number of reviews. Tap on a listing's thumbnail image to see more details about that business. On a particular business's details screen you will find things like: additional images, their listed address, and whether they are open or not.",
+    "githubUrl": "https://github.com/NoelKirkland/Portland-Business-Finder"
   }
 }
