@@ -10,8 +10,7 @@
 
 ### By Noel R. Kirkland - 12/23/2020
 
-![](assets/readmeImages/DemoGIF.gif)
-<img src="assets/readmeImages/DemoGIF.gif">
+<img src="https://drive.google.com/uc?export=view&id=1GwNvxjmQA-CpiTkx8KcVe3TeXp7PaapA">
 
 ### Portland Business Finder is a cross-platform mobile application written in JavaScript using React-Native. With this application you can take full advantage of the Yelp API to search businesses in your area. Your search results are separated into three price categories: "$" for the most budget friendly businesses, "$$" for more average prices, and "$$$" for businesses on the pricier end. Each listing will display the name of the business, a thumbnail image, star rating, and number of reviews. Tap on a listing's thumbnail image to see more details about that business. On a particular business's details screen you will find things like: additional images, their listed address, and whether they are open or not.
 
@@ -21,7 +20,7 @@
 * Scan the QR code below and wait for the project to compile
 * Have fun!
 
-![https://expo.io/@noelkirkland/projects/portlandbusinessfinder](assets/readmeImages/QRcode.png)
+<img src="https://drive.google.com/uc?export=view&id=1sYr1rtQtCRujvXTZiRhKgzqdOZ73UjUQ" alt="https://expo.io/@noelkirkland/projects/portlandbusinessfinder">
 
 ## Download and Run Locally <a name="2"></a>
 * _Download this application from HitHub_
