@@ -20,7 +20,7 @@
 * Scan the QR code below and wait for the project to compile
 * Have fun!
 
-<img src="https://drive.google.com/uc?export=view&id=1sYr1rtQtCRujvXTZiRhKgzqdOZ73UjUQ" alt="https://expo.io/@noelkirkland/projects/portlandbusinessfinder">
+<img src="https://drive.google.com/uc?export=view&id=1GZZJc_4cPNUeu7dZ51MDZgev5S-1fePY" alt="https://expo.io/@noelkirkland/projects/portland-business-finder">
 
 ## Download and Run Locally <a name="2"></a>
 * _Download this application from HitHub_

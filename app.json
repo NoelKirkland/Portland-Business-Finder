@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "PortlandBusinessFinder",
-    "slug": "portlandbusinessfinder",
+    "name": "Portland Business Finder",
+    "slug": "portland-business-finder",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
